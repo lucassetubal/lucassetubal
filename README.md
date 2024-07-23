@@ -11,8 +11,11 @@
 ![LucasSetubalMelo GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassetubal&show_icons=true&theme=dracula)
  
  ### Main skills: 
- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
- ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
- ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp; 
- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp; 
- ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp; 
+<div style="display: inline_block"><br>
+<img align="center" alt="Lucas-Js" height="70" weidth="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+<img align="center" alt="Lucas-Js" height="70" weidth="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+<img align="center" alt="Lucas-Js" height="70" weidth="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+<img align="center" alt="Lucas-Js" height="70" weidth="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img align="center" alt="Lucas-Js" height="70" weidth="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+<img align="center" alt="Lucas-Js" height="70" weidth="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+</div>
