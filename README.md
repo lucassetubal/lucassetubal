@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Setubal+Melo++🖐️;I'm+29+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!++😀)](https://git.io/typing-svg)
 
+<br/><br/>
+
 ![LucasSetubalMelo GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassetubal&show_icons=true&theme=dracula)
  
  ### Main skills: 
