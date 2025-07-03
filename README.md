@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured projects
 
 - [📊 Dashboard Financeiro com Power BI](https://github.com/lucassetubal/dashboard-financeiro)  
   Visualização interativa de receitas, despesas e indicadores financeiros.
