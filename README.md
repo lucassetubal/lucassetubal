@@ -33,6 +33,9 @@
 
 ## 🚀 Featured projects
 
+- [📚 Projeto de Pré-Processamento e Limpeza de Dados com Python]((https://github.com/lucassetubal/pre-processamento-de-dados-estudo/blob/main/Projeto_pre_processamento_de_dado%20(1).ipynb))  
+  Pré-processamento e limpeza de dados de uma base de churn, que diz respeito a serviços de telecomunicação.
+
 - [📊 Dashboard Financeiro com Power BI](https://github.com/lucassetubal/dashboard-financeiro)  
   Visualização interativa de receitas, despesas e indicadores financeiros.
 
